@@ -1,5 +1,5 @@
 john
 peter
-moses
-paul
-harold
+harol
+andrew
+simon
